@@ -26,4 +26,3 @@
   
 </div>
 
-![sanke animation](https://github.com/Carloseman1/Carloseman1/blob/output/github-contribution-grid-snake.svg)
