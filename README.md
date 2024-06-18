@@ -1,8 +1,3 @@
-## Olá! Eu sou o Carlos
-
-- 🔭 Estou em busca de uma vaga de estágio
-- 🌱 Cursando Análise e desenvolvimento de sistemas e estudando C# e java
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/Carloseman1">
