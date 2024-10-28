@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/Carloseman1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloseman1&show_icons=true&theme=dark&bg_color=87CEEB&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=87CEEB"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseman1&show_icons=true&theme=dark&bg_color=87CEEB&title_color=FFFFFF&text_color=FFFFFF&border_color=87CEEB"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloseman1&show_icons=true&theme=dark&bg_color=5dd55d&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=5dd55d"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseman1&show_icons=true&theme=dark&bg_color=5dd55d&title_color=FFFFFF&text_color=FFFFFF&border_color=5dd55d"/>
   </a>
 </div>
 
@@ -16,11 +16,11 @@
 
 ##
 
-<div> 
+<div style="display: flex; gap: 15px;"> 
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" style="margin: 5px;" alt="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/3531/3531820.png" height="40" width="40" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/SEU-INSTAGRAM-AQUI/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" width="40" style="margin: 5px;" alt="Instagram">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" height="40" width="40" alt="Instagram">
   </a>
 </div>
