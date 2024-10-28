@@ -24,3 +24,11 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" height="40" width="40" alt="Instagram">
   </a>
 </div>
+<div style="display: flex; gap: 15px;"> 
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3531/3531820.png" height="40" width="40" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/SEU-INSTAGRAM-AQUI/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" height="40" width="40" alt="Instagram">
+  </a>
+</div>
