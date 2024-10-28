@@ -18,18 +18,9 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" style="margin: 5px;" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/SEU-INSTAGRAM-AQUI/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
-  </a>
-</div>
-
-<div>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" style="border-radius: 50%; margin: 5px;" alt="LinkedIn Icon">
-  </a>
-  <a href="https://www.instagram.com/SEU-INSTAGRAM-AQUI/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" width="40" style="border-radius: 50%; margin: 5px;" alt="Instagram Icon">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" width="40" style="margin: 5px;" alt="Instagram">
   </a>
 </div>
