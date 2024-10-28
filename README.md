@@ -1,15 +1,15 @@
 <div align="center">
-  <h1>Olá, eu sou Carlos Emanoel!</h1>
-  <h3>🚀 Estudante de Análise e Desenvolvimento de Sistemas</h3>
-  <p>🔭 Atualmente, estou aprendendo Java e desenvolvendo projetos interessantes!</p>
-  <p>💬 Sempre aberto para aprender e trocar experiências na área de tecnologia.</p>
-  <p>📫 Você pode me encontrar em:</p>
+  <h1 style="color: #fff;">Olá, eu sou Carlos Emanoel!</h1>
+  <h3 style="color: #fff;">🚀 Estudante de Análise e Desenvolvimento de Sistemas</h3>
+  <p style="color: #fff;">🔭 Atualmente, estou aprendendo Java e desenvolvendo projetos interessantes!</p>
+  <p style="color: #fff;">💬 Sempre aberto para aprender e trocar experiências na área de tecnologia.</p>
+  <p style="color: #fff;">📫 Você pode me encontrar em:</p>
 </div>
 
 <div align="center">
   <a href="https://github.com/Carloseman1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloseman1&show_icons=true&theme=dark&bg_color=5dd55d&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=5dd55d"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseman1&show_icons=true&theme=dark&bg_color=5dd55d&title_color=FFFFFF&text_color=FFFFFF&border_color=5dd55d"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloseman1&show_icons=true&theme=radical&bg_color=5dd55d&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=5dd55d"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloseman1&show_icons=true&theme=radical&bg_color=5dd55d&title_color=FFFFFF&text_color=FFFFFF&border_color=5dd55d"/>
   </a>
 </div>
 
@@ -32,3 +32,10 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" height="40" width="40" alt="Instagram">
   </a>
 </div>
+
+##
+
+<details>
+  <summary style="color: #fff;">🎮 Clique aqui para jogar Snake!</summary>
+  <iframe src="https://snake-game.netlify.app/" style="border:none; width: 100%; height: 400px;"></iframe>
+</details>
