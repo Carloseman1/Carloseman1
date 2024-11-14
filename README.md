@@ -1,4 +1,6 @@
 #
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8313F7&width=437&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+#
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi. Atualmente estou em transição de carreira para a área de TI e estudo Java.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
