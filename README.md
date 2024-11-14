@@ -1,4 +1,4 @@
-<!-- Cabeçalho com animação de texto -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B3D5E0&width=437&lines=Welcome+to+my+profile!" alt="Typing SVG">
@@ -14,7 +14,7 @@
 
 #
 
-<!-- GIF de estudo à direita -->
+
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
@@ -23,6 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=B3D5E0&color=FFF)](https://www.linkedin.com/in/carlos-eman1/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=B3D5E0&color=FFF)](https://www.instagram.com/carlos_eman1/)
 
+#
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
