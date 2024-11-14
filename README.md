@@ -40,9 +40,6 @@
 
 #
 
-
-<div align="center">
-  <h3>* GitHub Stats *</h3>
  <div align="center">
   <h3>* GitHub Stats *</h3>
   <br>
