@@ -15,30 +15,27 @@
 #
 
 
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 <h3 align="left">Connect with me!</h3>
-<div style="display: flex; align-items: center;">
-  <div>
-    [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=B3D5E0&color=FFF)](mailto:emanuelcarlos030@gmail.com)
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=B3D5E0&color=FFF)](https://www.linkedin.com/in/carlos-eman1/)
-    [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=B3D5E0&color=FFF)](https://www.instagram.com/carlos_eman1/)
-  </div>
-  <img src="./src/study.gif" alt="Study GIF" height="100px" style="margin-left: 20px;">
-</div>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=B3D5E0&color=FFF)](mailto:emanuelcarlos030@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=B3D5E0&color=FFF)](https://www.linkedin.com/in/carlos-eman1/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=B3D5E0&color=FFF)](https://www.instagram.com/carlos_eman1/)
 
 <h3 align="left"> My Stack ~</h3>
-<div style="display: flex; align-items: center;">
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
-  </div>
-  <img src="./src/study.gif" alt="Study GIF" height="100px" style="margin-left: 20px;">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo" />
+<img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
+  <img width="8" />
 </div>
 
 #
