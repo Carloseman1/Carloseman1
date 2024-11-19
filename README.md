@@ -14,8 +14,6 @@
 #
 
 <!-- GIF Estático à direita -->
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
 <h3 align="left">Connect with me!</h3>
 <div style="display: flex; align-items: center;">
   <div>
@@ -29,7 +27,9 @@
       <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=B3D5E0&color=FFF" alt="Instagram">
     </a>
   </div>
-  <img src="/mnt/data/18e55240-0aed-47b7-914f-69aa4f7855d2.gif" alt="GIF animado" height="100px" style="margin-left: 20px;">
+  <div>
+    <img src="./study.gif" alt="GIF animado" height="100px" style="margin-left: 20px;">
+  </div>
 </div>
 
 <h3 align="left"> My Stack ~</h3>
@@ -45,7 +45,9 @@
     <img width="8">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL">
   </div>
-  <img src="/mnt/data/18e55240-0aed-47b7-914f-69aa4f7855d2.gif" alt="GIF animado" height="100px" style="margin-left: 20px;">
+  <div>
+    <img src="./study.gif" alt="GIF animado" height="100px" style="margin-left: 20px;">
+  </div>
 </div>
 
 #
