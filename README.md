@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="img.gif.gif" alt="Typing SVG" width="1000px" height="400px">
+    <img src="img.gif.gif" alt="Typing SVG" width="800px" height="300px">
   </a>
 </div>
 
