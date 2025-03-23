@@ -1,6 +1,9 @@
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi. Atualmente estou em transição de carreira para a área de TI e estudo Java.
-  Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Sou apaixonado por tecnologia e sempre busco aprender algo novo. Minha jornada na área começou com um grande interesse por lógica de programação, o que me levou a explorar o desenvolvimento backend e aprimorar minhas habilidades.
+  
+</p>
+<p align="center">
+Atualmente, trabalho como Desenvolvedor Júnior na Ottimizza Automação Contábil e curso Análise e Desenvolvimento de Sistemas. Gosto de desafios e acredito que cada problema é uma oportunidade de aprendizado e crescimento. Meu foco é evoluir constantemente, tanto profissionalmente quanto pessoalmente, e contribuir com soluções que realmente fazem a diferença.
 </p>
 
 #
