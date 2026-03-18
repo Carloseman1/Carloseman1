@@ -1,9 +1,13 @@
 <p align="center">
-Sou apaixonado por tecnologia e sempre busco aprender algo novo. Minha jornada na área começou com um grande interesse por lógica de programação, o que me levou a explorar o desenvolvimento backend e aprimorar minhas habilidades.
-  
+Sou Desenvolvedor Back-end apaixonado por tecnologia e por resolver problemas através de código. Minha jornada começou com o interesse por lógica de programação, o que me levou a aprofundar meus conhecimentos em desenvolvimento de sistemas e arquitetura de software.
 </p>
+
 <p align="center">
-Atualmente, trabalho como Desenvolvedor Júnior na Ottimizza Automação Contábil e curso Análise e Desenvolvimento de Sistemas. Gosto de desafios e acredito que cada problema é uma oportunidade de aprendizado e crescimento. Meu foco é evoluir constantemente, tanto profissionalmente quanto pessoalmente, e contribuir com soluções que realmente fazem a diferença.
+Tenho focado meus estudos em construção de APIs, microsserviços e sistemas distribuídos, utilizando tecnologias como Java, Spring Boot e mensageria com Apache Kafka. Busco constantemente evoluir minhas habilidades e aplicar boas práticas no desenvolvimento de soluções escaláveis e bem estruturadas.
+</p>
+
+<p align="center">
+Estou sempre em busca de novos desafios que contribuam para meu crescimento profissional e para a criação de soluções eficientes e de impacto.
 </p>
 
 #
