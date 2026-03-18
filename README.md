@@ -6,10 +6,6 @@ Sou Desenvolvedor Back-end apaixonado por tecnologia e por resolver problemas at
 Tenho focado meus estudos em construção de APIs, microsserviços e sistemas distribuídos, utilizando tecnologias como Java, Spring Boot e mensageria com Apache Kafka. Busco constantemente evoluir minhas habilidades e aplicar boas práticas no desenvolvimento de soluções escaláveis e bem estruturadas.
 </p>
 
-<p align="center">
-Estou sempre em busca de novos desafios que contribuam para meu crescimento profissional e para a criação de soluções eficientes e de impacto.
-</p>
-
 #
 
 
